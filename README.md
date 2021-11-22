@@ -1,2 +1,4 @@
 # AlluTanmayi-46
-italic *hello*
+*hello*
+**hello**
+***hello***
